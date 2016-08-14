@@ -86,4 +86,4 @@ See the complete example [here](https://auduno.github.com/clmtrackr/example.html
 
 ### License ###
 
-**clmtrackr** is distributed under the [MIT License](http://www.opensource.org/licenses/MIT)
+**clmtrackr** is distributed under the [MIT License](https://opensource.org/licenses/MIT)
